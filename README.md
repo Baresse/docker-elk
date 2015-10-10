@@ -28,7 +28,7 @@ Based on the official images:
 ## Setup
 
 1. Install Docker 
-	* For Linux users install [Docker](http://docker.io) and
+	* For Linux users install [Docker](http://docker.io) and [Docker-compose](http://docs.docker.com/compose/install/)
 	* For Mac/Windows users install [Docker Toolbox](https://www.docker.com/toolbox)
  
 2. Clone this repository
